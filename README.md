@@ -1,3 +1,3 @@
-Procedimiento:
+Procedure:
 
-Ejecutar el script linea por linea, exceptuando la descarga de librerías en caso de que ya estén descargadas.
+Execute the script line by line, except for the download of libraries, unless they are not already downloaded.
